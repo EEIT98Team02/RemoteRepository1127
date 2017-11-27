@@ -12,7 +12,6 @@ import org.springframework.web.servlet.config.annotation.InterceptorRegistry;
 import org.springframework.web.servlet.config.annotation.ViewResolverRegistry;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 import org.springframework.web.servlet.view.XmlViewResolver;
-//加這行是測驗Commit用的
 @Configuration
 @ComponentScan(basePackages={"controller"})		//<context:component-scan base-package="controller"></context:component-scan>
 @EnableWebMvc									//<mvc:annotation-driven></mvc:annotation-driven>

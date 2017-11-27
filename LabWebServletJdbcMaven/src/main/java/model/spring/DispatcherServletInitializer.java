@@ -1,7 +1,6 @@
 package model.spring;
 
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
-// 加這行是測驗Commit用的
 public class DispatcherServletInitializer extends AbstractAnnotationConfigDispatcherServletInitializer {
 	@Override
 	protected Class<?>[] getRootConfigClasses() {
