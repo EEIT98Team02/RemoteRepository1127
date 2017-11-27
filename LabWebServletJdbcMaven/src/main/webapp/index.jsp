@@ -9,8 +9,23 @@
 <title>Home</title>
 </head>
 <body>
+<<<<<<< HEAD
 <h1>劉光勳04:48 Welcome ${user.email}</h1>
 <h2>Demo Welcome ${user.email}</h2>
+=======
+
+<h3>Demo Welcome ${user.email}</h3>
+<h3><a href="<c:url value="/secure/login.jsp"/>">Login</a></h3>
+<h3><a href="<c:url value="/pages/product.jsp"/>">Poduct</a></h3>
+<h1>李彥霆</h1>
+<H1>測試第二遍</H1>
+<h1>測試第三遍</h1>
+<title>Home</title>
+</head>
+<body>
+<h1>hhhhhhhhhhhhhh Welcome ${user.email}</h1>
+<h2>45727 Welcome ${user.email}</h2>
+>>>>>>> branch 'master' of https://github.com/EEIT98Team02/RemoteRepository1127.git
 <h3>Demo Welcome ${user.email}</h3>
 <h3><a href="<c:url value="/secure/login.jsp"/>">Login</a></h3>
 <h3><a href="<c:url value="/pages/product.jsp"/>">Poduct</a></h3>
