@@ -5,14 +5,33 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+
 <title>Home</title>
 </head>
 <body>
+<<<<<<< HEAD
 <h1> Welcome ${user.email}</h1>
+=======
+
+<h3>Demo Welcome ${user.email}</h3>
+<h3><a href="<c:url value="/secure/login.jsp"/>">Login</a></h3>
+<h3><a href="<c:url value="/pages/product.jsp"/>">Poduct</a></h3>
+<h1>李彥霆</h1>
+<H1>測試第二遍</H1>
+
+<title>Home</title>
+</head>
+<body>
+<h1>Demo Welcome ${user.email}</h1>
+>>>>>>> branch 'master' of https://github.com/EEIT98Team02/RemoteRepository1127.git
 <h2>Demo Welcome ${user.email}</h2>
 <h3>Demo Welcome ${user.email}</h3>
 <h3><a href="<c:url value="/secure/login.jsp"/>">Login</a></h3>
 <h3><a href="<c:url value="/pages/product.jsp"/>">Poduct</a></h3>
+<<<<<<< HEAD
 <br>
+=======
+>>>>>>> branch 'master' of https://github.com/EEIT98Team02/RemoteRepository1127.git
 </body>
 </html>
