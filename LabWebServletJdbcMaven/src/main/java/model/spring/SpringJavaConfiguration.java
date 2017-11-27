@@ -8,7 +8,7 @@ import javax.sql.DataSource;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
-
+//加這行是測驗Commit用的
 @Configuration
 @ComponentScan(basePackages={"model"})
 public class SpringJavaConfiguration {
