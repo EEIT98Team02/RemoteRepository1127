@@ -12,6 +12,9 @@
 </head>
 <body>
 
+
+<h3>Demo Login(第二次改版)</h3>
+
 <h3>Demo Login</h3>
 
 <form action="<c:url value="/secure/login.controller" />" method="get">
@@ -30,13 +33,6 @@
 		<td>　</td>
 		<td align="right"><input type="submit" value="Login"></td>
 	</tr>
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-	<br>
->>>>>>> branch 'master' of https://github.com/EEIT98Team02/RemoteRepository1127.git
-=======
->>>>>>> branch 'master' of https://github.com/EEIT98Team02/RemoteRepository1127.git
 </table>
 </form>
 
