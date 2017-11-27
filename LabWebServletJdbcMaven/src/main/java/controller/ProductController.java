@@ -18,7 +18,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import model.ProductBean;
 import model.ProductService;
 import model.spring.PrimitiveNumberEditor;
-
+// 加這行這是測試commit用的
 @Controller
 @RequestMapping("/pages/product.controller")
 public class ProductController {
