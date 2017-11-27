@@ -12,9 +12,6 @@
 </head>
 <body>
 
-
-<h3>Demo Login(第二次改版)</h3>
-
 <h3>Demo Login</h3>
 
 <form action="<c:url value="/secure/login.controller" />" method="get">
